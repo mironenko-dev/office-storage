@@ -1,0 +1,38 @@
+Main page
+
+Лог ин
+Заголовок
+О чем сайт
+Контакты 
+
+
+Сhoose page
+
+Button-Link to Input page
+Button-Link to Output page
+Button-Link to Delete page
+
+
+Input page
+
+Field for input name
+Field for input amount
+Field for input inventory_number
+Field for input department_name
+Button "Send to DB"
+
+
+Output page
+
+Show table with choosen fields
+
+
+Delete page
+
+Make table with choosen fields and Button for "Delete" all showd strings
+
+Update page
+
+
+
+Log out page
